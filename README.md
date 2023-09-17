@@ -1,6 +1,6 @@
 # NASA EPIC API Wallpapers
 
-A simple script, written in Python, that interface's with NASA's EPIC API to download the latest images of Earth.
+A simple script, written in Python, that interfaces with NASA's EPIC API to download the latest images of Earth.
 
 ## Purpose
 
